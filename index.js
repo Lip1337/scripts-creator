@@ -33,25 +33,14 @@ function createScript() {
     if (answers[1] == "true") {
         additional = additional + "\nui_page 'html/index.html' \nfiles {'html/index.html', 'html/style.css', 'html/index.js'}"
         fs.mkdirSync("./scripts/" + scriptname + "/html/")
-        fs.writeFile("./scripts/" + scriptname + "/html/index.html", `<!DOCTYPE html>
-        <html lang="en">
-        <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Document</title>
-        <link rel="stylesheet" href="style.css">
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
-    </head>
-    <body>
-        <script src="index.js"></script>
-    </body>
-</html>`, function(err) {
-            if (err) {
-                console.log(err)
-            } else {
-                console.log("index.html created")
-            }
+        fs.readFile("./temp.html", (err, html) => {
+            fs.writeFile("./scripts/" + scriptname + "/html/index.html", html, function(err) {
+                if (err) {
+                    console.log(err)
+                } else {
+                    console.log("index.html created")
+                }
+            })
         })
         fs.writeFile("./scripts/" + scriptname + "/html/style.css", "", function(err) {
             if (err) {
