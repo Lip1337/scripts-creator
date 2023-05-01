@@ -1,1 +1,98 @@
-var _0x4e14ab=_0x33b9;!function(x,$){for(var _=_0x33b9,e=x();;)try{if(parseInt(_(372))/1*(-parseInt(_(462))/2)+-parseInt(_(395))/3+parseInt(_(448))/4+parseInt(_(411))/5*(-parseInt(_(402))/6)+-parseInt(_(373))/7+parseInt(_(470))/8+-parseInt(_(508))/9*(-parseInt(_(487))/10)==206519)break;e.push(e.shift())}catch(t){e.push(e.shift())}}(_0x5791,206519);const readline=require(_0x4e14ab(434)),fs=require("fs"),r1=readline[_0x4e14ab(401)+_0x4e14ab(375)]({input:process[_0x4e14ab(501)],output:process[_0x4e14ab(407)]});function _0x5791(){var x=["9|3|5|4|1",'lang="en">',"2|7|6|0|8|","d erstellt",'tylesheet"',"jvRoz","    <meta ","4|2|1|0|3",'v="X-UA-Co',"SvrJE","136305jBxsIS"," http-equi","html/index","cKqpY",'e=1.0">\n  ','iewport" c',"createInte","12wjUXou",'ink rel="s',"<!DOCTYPE ","iLQQS","jhGOr","stdout",'ontent="wi',"question",'ta name="v',"876985PHBbtf","</head>\n  ",'ript src="',"https://aj","Server cre","KUjlv","e.css","KLYSl",">\n</html>","\nshared_sc","le>Documen","wtpwh","wKihU","extended/i",'mpatible" ',"ta5'\n\nclie","a'\n\nserver","ax/libs/jq","    <html "," created","push","/index.htm","/html/inde","readline",' href="sty',", 'html/in","index.html","lTLZK","  <body>\n ","mkdirSync","\nui_page '","close","/client.lu","PiAvB","</script>\n","ZvFMl","PYher","768748cpawAe","dex.js'}","Fxmanifest","Client cre","lBYmk","/fxmanifes","ript '@es_","uery/3.6.4","ated","VmTaB","or false):","html>\n    ","SlViJ","l', 'html/","214646FtAVmE","IAadk","Name: ","./scripts/","kWKRb","FQNIw","fbCxr","MJrrL","2783816HuvImh","/server.lu","Script wir","writeFile","erver.lua'","dth=device","wAAtW","XkFSb","iWNDq","/html/styl","XMYrH","      <tit","\n        <",'charset="U',"BnmkP","UI (true o","' \ngame 'g","1680CFmbAQ","ESX (true ","/jquery.mi","length","TNTOU","kumVb","Noqep","rDhQL","'client.lu",'index.js">',"EaadH",'content="I',"split","nt_script ","stdin","les {'html",'TF-8">\n   ',"r false):","log","head>\n    ",'le.css">\n ',"14814XahQjb","ax.googlea","AjUiC","style.css'","/html/","    </body","        <l"," 'cerulean","sTZhd","ript>\n    ","x.js","fx_version","     <meta","x.html","FxBWu","       <sc","qbyRF","itial-scal","GfdtQ","mports.lua",'n.js"></sc',".html' \nfi","JhGwR","1FXiTmO","746347COdqLW","BedBt","rface",'E=edge">\n ',"CQJcB","t</title>\n","true","-width, in","pis.com/aj","_script 's","t.lua","       <me"];return(_0x5791=function(){return x})()}var questions=[_0x4e14ab(464),_0x4e14ab(485)+_0x4e14ab(504),_0x4e14ab(488)+_0x4e14ab(458)],answers=[];function _0x33b9(x,$){var _=_0x5791();return(_0x33b9=function(x,$){return _[x-=368]})(x,$)}function quest(x){var $=_0x4e14ab,_={wKihU:function(x,$){return x<$},kWKRb:function(x,$){return x+$},lBYmk:function(x,$){return x($)},SvrJE:function(x,$){return x+$},Noqep:$(472)+$(388),PYher:function(x){return x()}};r1[$(409)](questions[x],e=>{var t=$;answers[t(431)](e),_[t(423)](_[t(466)](x,1),questions[t(490)])?_[t(452)](quest,_[t(394)](x,1)):(console[t(505)](_[t(493)]),_[t(447)](createScript))})}function createScript(){for(var x=_0x4e14ab,$={wAAtW:x(387)+x(385),cKqpY:function(x,$){return x+$},BedBt:x(465),wtpwh:x(437)+x(430),MJrrL:x(450)+x(430),JhGwR:x(451)+x(456),GfdtQ:x(415)+x(456),PiAvB:x(453)+x(383),iWNDq:function(x,$){return x+$},iLQQS:x(519)+x(515)+x(486)+x(426)+x(500)+x(495)+x(427)+x(382)+x(474),XMYrH:function(x,$){return x+$},SlViJ:x(471)+"a",FxBWu:function(x,$){return x+$},EaadH:x(443)+"a",BnmkP:function(x,$){return x==$},kumVb:x(379),jvRoz:x(392),lTLZK:function(x,$){return x+$},CQJcB:x(479)+x(417),qbyRF:function(x,$){return x+$},fbCxr:x(433)+x(521),ZvFMl:function(x,$){return x+$},VmTaB:x(512),KUjlv:function(x,$){return x+$},rDhQL:x(433)+x(518),sTZhd:x(441)+x(397)+x(370)+x(502)+x(432)+x(461)+x(511)+x(436)+x(449),IAadk:function(x,$){return x==$},KLYSl:function(x,$){return x+$},jhGOr:x(420)+x(454)+x(424)+x(368)+"'"},_=$[x(476)][x(499)]("|"),e=0;;){switch(_[e++]){case"0":fs[x(440)]($[x(398)]($[x(374)],n));continue;case"1":r1[x(442)]();continue;case"2":var t={XkFSb:$[x(422)],FQNIw:$[x(469)],TNTOU:$[x(371)],AjUiC:$[x(526)]};continue;case"3":fs[x(473)]($[x(398)]($[x(398)]($[x(374)],n),$[x(444)]),$[x(478)]($[x(405)],a),function($){var _=x;$?console[_(505)]($):console[_(505)](t[_(467)])});continue;case"4":fs[x(473)]($[x(480)]($[x(480)]($[x(374)],n),$[x(460)]),"",function($){var _=x;$?console[_(505)]($):console[_(505)](t[_(510)])});continue;case"5":fs[x(473)]($[x(478)]($[x(522)]($[x(374)],n),$[x(497)]),"",function($){var _=x;$?console[_(505)]($):console[_(505)](t[_(491)])});continue;case"6":var a="";continue;case"7":var n=answers[0];continue;case"8":if($[x(484)](answers[1],$[x(492)]))for(var r=$[x(390)][x(499)]("|"),c=0;;){switch(r[c++]){case"0":fs[x(473)]($[x(438)]($[x(478)]($[x(374)],n),$[x(377)]),"",function($){var _=x;$?console[_(505)]($):console[_(505)](t[_(477)])});continue;case"1":fs[x(473)]($[x(398)]($[x(524)]($[x(374)],n),$[x(468)]),x(404)+x(459)+x(429)+x(386)+x(482)+x(506)+x(391)+x(483)+x(503)+x(520)+x(396)+x(393)+x(425)+x(498)+x(376)+x(384)+x(410)+x(400)+x(408)+x(475)+x(380)+x(525)+x(399)+x(481)+x(421)+x(378)+x(514)+x(403)+x(389)+x(435)+x(507)+x(523)+x(413)+x(414)+x(509)+x(381)+x(428)+x(455)+x(489)+x(369)+x(517)+x(412)+x(439)+x(523)+x(413)+x(496)+x(445)+x(513)+x(419),function($){var _=x;$?console[_(505)]($):console[_(505)](t[_(477)])});continue;case"2":fs[x(440)]($[x(446)]($[x(478)]($[x(374)],n),$[x(457)]));continue;case"3":fs[x(473)]($[x(522)]($[x(416)]($[x(374)],n),$[x(494)]),"",function($){var _=x;$?console[_(505)]($):console[_(505)](t[_(477)])});continue;case"4":a=$[x(478)](a,$[x(516)]);continue}break}continue;case"9":$[x(463)](answers[2],$[x(492)])&&(a=$[x(418)](a,$[x(406)]));continue}break}}quest(0);
+const readline = require("readline")
+const fs = require("fs")
+
+const r1 = readline.createInterface({
+    input: process.stdin,
+    output: process.stdout
+})
+
+var questions = [
+    "Name: ",
+    "UI (true or false):",
+    "ESX (true or false):"
+]
+
+var answers = []
+
+function quest(i) {
+    r1.question(questions[i], (answer) => {
+        answers.push(answer)
+        if (i + 1 < questions.length) {
+            quest(i + 1)
+        } else {
+            console.log("Script wird erstellt")
+            createScript()
+        }
+    })
+}
+
+function createScript() {
+    var scriptname = answers[0] 
+    var additional = ""
+    fs.mkdirSync("./scripts/" + scriptname)
+    if (answers[1] == "true") {
+        additional = additional + "\nui_page 'html/index.html' \nfiles {'html/index.html', 'html/style.css', 'html/index.js'}"
+        fs.mkdirSync("./scripts/" + scriptname + "/html/")
+        fs.writeFile("./scripts/" + scriptname + "/html/index.html", `<!DOCTYPE html>
+        <html lang="en">
+        <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <link rel="stylesheet" href="style.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    </head>
+    <body>
+        <script src="index.js"></script>
+    </body>
+</html>`, function(err) {
+            if (err) {
+                console.log(err)
+            } else {
+                console.log("index.html created")
+            }
+        })
+        fs.writeFile("./scripts/" + scriptname + "/html/style.css", "", function(err) {
+            if (err) {
+                console.log(err)
+            } else {
+                console.log("index.html created")
+            }
+        })
+        fs.writeFile("./scripts/" + scriptname + "/html/index.js", "", function(err) {
+            if (err) {
+                console.log(err)
+            } else {
+                console.log("index.html created")
+            }
+        })
+    }
+    if (answers[2] == "true") {
+        additional = additional + "\nshared_script '@es_extended/imports.lua'"
+    }
+    fs.writeFile("./scripts/" + scriptname + "/fxmanifest.lua", "fx_version 'cerulean' \ngame 'gta5'\n\nclient_script 'client.lua'\n\nserver_script 'server.lua'" + additional, function(err) {
+        if (err) {
+            console.log(err)
+        } else {
+            console.log("Fxmanifest created")
+        }
+    })
+    fs.writeFile("./scripts/" + scriptname + "/client.lua", "", function(err) {
+        if (err) {
+            console.log(err)
+        } else {
+            console.log("Client created")
+        }
+    })
+    fs.writeFile("./scripts/" + scriptname + "/server.lua", "", function(err) {
+        if (err) {
+            console.log(err)
+        } else {
+            console.log("Server created")
+        }
+    })
+    r1.close()
+}
+
+quest(0)
